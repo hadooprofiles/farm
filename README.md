@@ -5,3 +5,4 @@ Scala, Java, Python resoruces are invited to work on the project and contribute 
 The environment is hosted on IBM Bluemix for the production code deployment. 
 Resources are advices to download hadoop framework 2.7.1 or later on Centos 7 and Ubuntu 14.4 version to begin with.
 Eclipse oxygen version 3.8 or later can be used.
+Please send in the request to join and contribute to the project. We would happy to join us in farming.
